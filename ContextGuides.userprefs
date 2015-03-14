@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="iOS/ContextGuides.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Drogon" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/CustomControls/NiceEntryRendered.cs">
+    <Files>
+      <File FileName="ContextGuides/ContextGuides.cs" Line="1" Column="1" />
+      <File FileName="ContextGuides/MainMenu.cs" Line="27" Column="37" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" Line="1" Column="1" />
+      <File FileName="ContextGuides/CustomControls/NiceEntry.cs" Line="1" Column="1" />
+      <File FileName="iOS/CustomControls/NiceEntryRendered.cs" Line="20" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

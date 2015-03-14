@@ -1,0 +1,16 @@
+ipaD
+1
+1.0 1.0
++ContextGuides.iOS
++Info.plist
++MonoTouchDebugConfiguration.txt
++NOTICE
++ResourceRules.plist
++_CodeSignature/CodeResources
++archived-expanded-entitlements.xcent
++embedded.mobileprovision
+xEOF
+#CreateSparseIPA UUID: E86FD46B-0078-3F74-9131-7C185FA6965B
+#Bundle id: com.contextguides
+#Old bundle version: 1.0 1.0
+#New bundle version: 1.0 1.0
